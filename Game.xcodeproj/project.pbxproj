@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		282A66461F2B61E700AA8EB3 /* AFGANISTAN.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A663C1F2B61E700AA8EB3 /* AFGANISTAN.png */; };
+		282A66471F2B61E700AA8EB3 /* AMERICA.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A663D1F2B61E700AA8EB3 /* AMERICA.png */; };
+		282A66481F2B61E700AA8EB3 /* BHUTAN.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A663E1F2B61E700AA8EB3 /* BHUTAN.png */; };
+		282A66491F2B61E700AA8EB3 /* CANADA.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A663F1F2B61E700AA8EB3 /* CANADA.png */; };
+		282A664A1F2B61E700AA8EB3 /* CHINA.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A66401F2B61E700AA8EB3 /* CHINA.png */; };
+		282A664B1F2B61E700AA8EB3 /* INDIA.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A66411F2B61E700AA8EB3 /* INDIA.png */; };
+		282A664C1F2B61E700AA8EB3 /* ITALY.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A66421F2B61E700AA8EB3 /* ITALY.png */; };
+		282A664D1F2B61E700AA8EB3 /* NEPAL.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A66431F2B61E700AA8EB3 /* NEPAL.png */; };
+		282A664E1F2B61E700AA8EB3 /* PAKISTAN.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A66441F2B61E700AA8EB3 /* PAKISTAN.png */; };
+		282A664F1F2B61E700AA8EB3 /* RUSSIA.png in Resources */ = {isa = PBXBuildFile; fileRef = 282A66451F2B61E700AA8EB3 /* RUSSIA.png */; };
 		2880A1891F2A096D00984497 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880A1881F2A096D00984497 /* main.m */; };
 		2880A18C1F2A096D00984497 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880A18B1F2A096D00984497 /* AppDelegate.m */; };
 		2880A18F1F2A096D00984497 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2880A18E1F2A096D00984497 /* ViewController.m */; };
@@ -28,9 +38,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		282A663C1F2B61E700AA8EB3 /* AFGANISTAN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AFGANISTAN.png; sourceTree = "<group>"; };
+		282A663D1F2B61E700AA8EB3 /* AMERICA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AMERICA.png; sourceTree = "<group>"; };
+		282A663E1F2B61E700AA8EB3 /* BHUTAN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BHUTAN.png; sourceTree = "<group>"; };
+		282A663F1F2B61E700AA8EB3 /* CANADA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CANADA.png; sourceTree = "<group>"; };
+		282A66401F2B61E700AA8EB3 /* CHINA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CHINA.png; sourceTree = "<group>"; };
+		282A66411F2B61E700AA8EB3 /* INDIA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = INDIA.png; sourceTree = "<group>"; };
+		282A66421F2B61E700AA8EB3 /* ITALY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ITALY.png; sourceTree = "<group>"; };
+		282A66431F2B61E700AA8EB3 /* NEPAL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NEPAL.png; sourceTree = "<group>"; };
+		282A66441F2B61E700AA8EB3 /* PAKISTAN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PAKISTAN.png; sourceTree = "<group>"; };
+		282A66451F2B61E700AA8EB3 /* RUSSIA.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RUSSIA.png; sourceTree = "<group>"; };
 		2880A1841F2A096C00984497 /* Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Game.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2880A1881F2A096D00984497 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2880A18A1F2A096D00984497 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		2880A18A1F2A096D00984497 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Game/AppDelegate.h; sourceTree = "<group>"; };
 		2880A18B1F2A096D00984497 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		2880A18D1F2A096D00984497 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		2880A18E1F2A096D00984497 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
@@ -68,6 +88,7 @@
 				2880A1861F2A096C00984497 /* Game */,
 				2880A1A31F2A096D00984497 /* GameTests */,
 				2880A1851F2A096C00984497 /* Products */,
+				2880A18A1F2A096D00984497 /* AppDelegate.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,7 +104,6 @@
 		2880A1861F2A096C00984497 /* Game */ = {
 			isa = PBXGroup;
 			children = (
-				2880A18A1F2A096D00984497 /* AppDelegate.h */,
 				2880A18B1F2A096D00984497 /* AppDelegate.m */,
 				2880A18D1F2A096D00984497 /* ViewController.h */,
 				2880A18E1F2A096D00984497 /* ViewController.m */,
@@ -100,6 +120,16 @@
 		2880A1871F2A096C00984497 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				282A663C1F2B61E700AA8EB3 /* AFGANISTAN.png */,
+				282A663D1F2B61E700AA8EB3 /* AMERICA.png */,
+				282A663E1F2B61E700AA8EB3 /* BHUTAN.png */,
+				282A663F1F2B61E700AA8EB3 /* CANADA.png */,
+				282A66401F2B61E700AA8EB3 /* CHINA.png */,
+				282A66411F2B61E700AA8EB3 /* INDIA.png */,
+				282A66421F2B61E700AA8EB3 /* ITALY.png */,
+				282A66431F2B61E700AA8EB3 /* NEPAL.png */,
+				282A66441F2B61E700AA8EB3 /* PAKISTAN.png */,
+				282A66451F2B61E700AA8EB3 /* RUSSIA.png */,
 				2880A1881F2A096D00984497 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -199,8 +229,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				2880A19A1F2A096D00984497 /* LaunchScreen.storyboard in Resources */,
+				282A664F1F2B61E700AA8EB3 /* RUSSIA.png in Resources */,
+				282A664C1F2B61E700AA8EB3 /* ITALY.png in Resources */,
+				282A664E1F2B61E700AA8EB3 /* PAKISTAN.png in Resources */,
+				282A66461F2B61E700AA8EB3 /* AFGANISTAN.png in Resources */,
 				2880A1971F2A096D00984497 /* Assets.xcassets in Resources */,
+				282A66481F2B61E700AA8EB3 /* BHUTAN.png in Resources */,
+				282A664B1F2B61E700AA8EB3 /* INDIA.png in Resources */,
+				282A66471F2B61E700AA8EB3 /* AMERICA.png in Resources */,
 				2880A1921F2A096D00984497 /* Main.storyboard in Resources */,
+				282A664D1F2B61E700AA8EB3 /* NEPAL.png in Resources */,
+				282A66491F2B61E700AA8EB3 /* CANADA.png in Resources */,
+				282A664A1F2B61E700AA8EB3 /* CHINA.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -357,9 +397,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 5BA3NVSN22;
 				INFOPLIST_FILE = Game/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Sumit.Game;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -369,9 +411,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 5BA3NVSN22;
 				INFOPLIST_FILE = Game/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Sumit.Game;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -420,6 +464,7 @@
 				2880A1AB1F2A096D00984497 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2880A1AC1F2A096D00984497 /* Build configuration list for PBXNativeTarget "GameTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +473,7 @@
 				2880A1AE1F2A096D00984497 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
